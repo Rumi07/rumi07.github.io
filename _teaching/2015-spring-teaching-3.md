@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: 
 venue: "Department of Computer Science, Green University of Bangladesh"
-date: 2022-2023
+date: 30-12-2022
 location: "Dhaka, Bangladesh"
 ---
 
