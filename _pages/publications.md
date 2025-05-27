@@ -5,15 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-### 2025
+
 
 1. CausalGeD: Blending Causality and Diffusion for Spatial Gene Expression  Generation                                                                  
-   [Rabeya TUs Sadia](), M. Ahamed, Q. Cheng                                                                                                                                             
+   [Rabeya Tus Sadia](), M. Ahamed, Q. Cheng                                                                                                                                             
    ***Accepted at KDD 2025 (ACM SIGKDD)***                                                                    
      [Paper](#) | [Code]()
   
 2. Multiscale Latent Diffusion Model for Enhanced Feature Extraction from Medical Images                                                                                     
-   [Rabeya TUs Sadia](), J. Zhang, J. Chen                                                                                                                                                                                                                                           
+   [Rabeya Tus Sadia](), J. Zhang, J. Chen                                                                                                                                                                                                                                           
     [Paper](https://arxiv.org/abs/2410.04000) |
     [Code]() 
 
