@@ -32,7 +32,7 @@ Work experience
 * Lecturer
   *  Department of Computer Science and Engineering at Green University of Bangladesh.
   * Taught courses in Data Communication, Database Systems, and Information System Design.
-  * Supervised undergraduate projects and theses.
+  * Supervised undergraduate projects and thesis.
   * Advised undergraduate students on academic and career matters.
  
 
