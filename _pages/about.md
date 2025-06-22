@@ -32,7 +32,7 @@ Research Interests:
 News:
 ======
 
-- **<span style="color:red">New!:</span>**  [June 2025] Selected to receive a SIGKDD-supported KDD 2025 Student Travel Award!.
+- **<span style="color:red">New!:</span>**  [June 2025] Selected for the KDD 2025 Student Travel Grant Award!.
 - **<span style="color:red">New!:</span>**  [May 2025] Accepted paper at KDD 2025 (Oral + Poster), CausalGeD: Blending Causality and Diffusion for Spatial Gene Expression Generation .
 - [Jan 2025] Started working as a Graduate Teaching Assistant of CS at University of Kentucky.
 - [Jan 2024] Manuscript published in the [Journal of Applied Clinical Medical Physics!](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/acm2.14270).
