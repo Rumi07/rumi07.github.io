@@ -33,7 +33,7 @@ News:
 ======
 
 - **<span style="color:red">New!:</span>**  [December 2025] Paper accepted at <span style="color:red"> Journal of Biomedical Informatics</span>**.
-- **<span style="color:red">New!:</span>**  [September 2025] Paper accepted at Biomedcial Optics Express Journal(https://opg.optica.org/boe/fulltext.cfm?uri=boe-16-10-3895).
+- **<span style="color:red">New!:</span>**  [September 2025] Paper accepted at [Biomedcial Optics Express Journal](https://opg.optica.org/boe/fulltext.cfm?uri=boe-16-10-3895).
 - **<span style="color:red">New!:</span>**  [June 2025] Selected for the KDD 2025 Student Travel Grant Award!.
 -[May 2025] Accepted paper at KDD 2025 (Oral + Poster), CausalGeD: Blending Causality and Diffusion for Spatial Gene Expression Generation .
 - [Jan 2025] Started working as a Graduate Teaching Assistant of CS at University of Kentucky.
