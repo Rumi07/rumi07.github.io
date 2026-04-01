@@ -32,7 +32,7 @@ Research Interests:
 News:
 ======
 
-- <span style="color:red">New!:</span> [March 2025] Selected as a Student Awardee and attended the NAIRR 2026 Annual Meeting, hosted by the <span style="color:red">National Science Foundation</span>.
+- <span style="color:red">New!:</span> [March 2026] Selected as a Student Awardee and attended the NAIRR 2026 Annual Meeting, hosted by the <span style="color:red">National Science Foundation</span>.
 - <span style="color:red">New!:</span>  [December 2025] Paper accepted at <span style="color:red"> Journal of Biomedical Informatics</span>.
 - [September 2025] Paper accepted at [Biomedcial Optics Express Journal](https://opg.optica.org/boe/fulltext.cfm?uri=boe-16-10-3895).
 - [June 2025] Selected for the KDD 2025 Student Travel Grant Award!.
