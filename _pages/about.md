@@ -11,7 +11,7 @@ redirect_from:
 I am currently pursuing my PhD in the Department of Computer Science at the University of Kentucky.  
 I am working as a Graduate Teaching Assistant in the Department of Computer Science and as a Graduate Research Assistant in the Department of Internal Medicine, Division of Biomedical Informatics.
 
-My research focuses on developing advanced data mining and computer vision algorithms to solve problems in medical and biological informatics. I am passionate about integrating spatial transcriptomics, single-cell RNA-seq, and multi-omics datasets into **causality-aware multimodal models** for tasks like imputation and prediction.
+My research develops advanced data mining and computer vision methods for medical and biological informatics, with a focus on structured real-world data. I design multitask, multimodal models that integrate spatial transcriptomics, single-cell RNA-seq, and multi-omics data, leveraging vision–language reasoning frameworks for robust imputation and predictive modeling.
 
 Alongside research, I actively contribute to the academic community through teaching, mentoring, and collaborating on interdisciplinary projects.  I was one of the [Campion of Huwaei seeds for the future 2020](https://www.newagebd.net/article/115387/10-bangladeshi-students-to-receive-training-from-huawei-hq#google_vignette). I was able to get the opportunity to have training about  fundamentals of 5G technology, Machine Learning and Artificial Intelligence, Cloud Computing, IOT devices, Cyber Security and Leadership.
 I am enthusiastic about applying machine learning and artificial intelligence to improve healthcare and biological data analysis.
