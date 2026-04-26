@@ -43,8 +43,9 @@ Research Interests:
 News:
 ======
 
+- <span style="color:red">New!:</span> [April 2026] Paper accepted at <span style="color:red"> [Neurocomputing] </span> (https://doi.org/10.1016/j.neucom.2026.133754).
 - <span style="color:red">New!:</span> [March 2026] Selected as a Student Awardee and attended the NAIRR 2026 Annual Meeting, hosted by the <span style="color:red">NSF</span>.
-- <span style="color:red">New!:</span>  [December 2025] Paper accepted at <span style="color:red"> Journal of Biomedical Informatics</span>.
+- <span style="color:red">New!:</span>  [December 2025] Paper accepted at <span style="color:red"> [Journal of Biomedical Informatics]</span>(https://doi.org/10.1016/j.jbi.2025.104966).
 - [September 2025] Paper accepted at [Biomedcial Optics Express Journal](https://opg.optica.org/boe/fulltext.cfm?uri=boe-16-10-3895).
 - [June 2025] Selected for the KDD 2025 Student Travel Grant Award!.
 - [May 2025] Accepted paper at KDD 2025 <span style="color:red">(Oral + Poster)</span>, CausalGeD: Blending Causality and Diffusion for Spatial Gene Expression Generation .
