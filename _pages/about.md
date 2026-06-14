@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - Ph.D. candidate in Computer Science at the [University of Kentucky](https://www.uky.edu)  
-- Graduate Teaching Assistant (Computer Science) and Graduate Research Assistant (Internal Medicine, Division of Biomedical Informatics)
+- Graduate Research Assistant (Internal Medicine, Division of Biomedical Informatics)
 
 - **Research Focus**
   - Advanced data mining and computer vision for medical and biological informatics  
