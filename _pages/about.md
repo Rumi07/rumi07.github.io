@@ -43,6 +43,8 @@ Research Interests:
 News:
 ======
 
+- <span style="color:red">New!:</span> [June 2026] Paper accepted at [
+Computational and Structural Biotechnology Journal](https://doi.org/10.34133/csbj.0150).
 - <span style="color:red">New!:</span> [April 2026] Paper accepted at [Neurocomputing](https://doi.org/10.1016/j.neucom.2026.133754).
 - <span style="color:red">New!:</span> [March 2026] Selected as a Student Awardee and attended the NAIRR 2026 Annual Meeting, hosted by the <span style="color:red">NSF</span>.
 - <span style="color:red">New!:</span>  [December 2025] Paper accepted at [Journal of Biomedical Informatics](https://doi.org/10.1016/j.jbi.2025.104966).
