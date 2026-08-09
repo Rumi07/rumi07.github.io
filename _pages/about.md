@@ -1,56 +1,54 @@
 ---
 permalink: /
 title: "Hi, I'm Rabeya!"
-excerpt: "About me"
+excerpt: "Postdoctoral Scholar at Stanford University"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<div class="stanford-lead" markdown="0">
-  <p class="role">Postdoctoral Scholar at Stanford University</p>
-  <p class="affiliation">Ph.D. in Computer Science, University of Kentucky</p>
-  <p>Palo Alto, California, United States · <a href="mailto:rabeya@stanford.edu">rabeya@stanford.edu</a></p>
+<div class="home-hero" markdown="0">
+  <p class="home-hero__eyebrow">Postdoctoral Scholar · Stanford University</p>
+  <p class="home-hero__sub">Ph.D. in Computer Science, University of Kentucky · Palo Alto, California</p>
 </div>
 
-<div class="stanford-section" markdown="1">
-### Research Focus
-- Advanced data mining and computer vision for medical and biological informatics
-- Multitask, multimodal modeling of structured real-world data
-- Integration of spatial transcriptomics, single-cell RNA-seq, and multi-omics data
-- Vision–language reasoning for imputation and predictive modeling
+<div class="research-statement" markdown="0">
+  <h2 class="research-statement__label">Research</h2>
+  <p class="research-statement__lead">
+    I am currently working on <em>multimodal and multitask foundation models</em> for cancer detection and surgical video analysis.
+  </p>
+  <p>
+    My research focuses on medical image and video segmentation, MRI and ultrasound analysis, foundation models, reinforcement learning, and AI agents.
+  </p>
+  <p>
+    My broader research spans generative modeling, causal machine learning, multimodal learning, large language models, state-space models, spatial and single-cell omics, structured data analysis, and trustworthy artificial intelligence.
+  </p>
+  <p class="research-statement__goal">
+    My goal is to develop clinically meaningful, interpretable, fair, and reliable AI methods for real-world biomedical and healthcare applications.
+  </p>
 </div>
 
-<div class="stanford-section" markdown="1">
-### Academic Contributions
-- Teaching, mentoring, and interdisciplinary collaboration
+<div class="home-links" markdown="0">
+  <a class="home-link" href="/publications/">Publications</a>
+  <a class="home-link" href="/cv/">CV</a>
+  <a class="home-link" href="mailto:rabeya@stanford.edu">Email</a>
 </div>
-
-<div class="stanford-section" markdown="1">
-### Honors & Training
-- Selected for [Huawei Seeds for the Future](https://www.newagebd.net/article/115387/10-bangladeshi-students-to-receive-training-from-huawei-hq#google_vignette)
-- Training in 5G, AI/ML, cloud computing, IoT, cybersecurity, and leadership
-</div>
-
-<div class="stanford-section" markdown="1">
-### Research Goal
-- Advancing AI-driven solutions for healthcare and biological data analysis
-</div>
-
-Feel free to explore my publications, projects, and blog posts to learn more about my work.
 
 Research Interests
 ======
 
 <ul class="interest-list">
-  <li>Vision Language Models</li>
-  <li>Generative AI</li>
-  <li>Diffusion Models</li>
-  <li>Spatial Omics</li>
-  <li>scRNA-seq</li>
+  <li>Foundation Models</li>
+  <li>Multimodal Learning</li>
   <li>Medical Imaging</li>
-  <li>Deep Learning</li>
+  <li>Surgical Video Analysis</li>
+  <li>Generative AI</li>
+  <li>Causal Machine Learning</li>
+  <li>Large Language Models</li>
+  <li>Spatial &amp; Single-cell Omics</li>
+  <li>Reinforcement Learning</li>
+  <li>Trustworthy AI</li>
 </ul>
 
 News
