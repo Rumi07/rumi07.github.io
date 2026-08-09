@@ -19,6 +19,9 @@ Education
 
 Work experience
 ======
+* Postdoctoral Scholar
+  * Stanford University, Palo Alto, CA, USA
+
 * Graduate Teaching Assistant (GTA)
   * Department of Computer Science, University of Kentucky
   * Instructor for CS215- Introduction to Programming Design, Abstraction, and Problem Solving.

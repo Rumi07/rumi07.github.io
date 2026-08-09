@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-- Ph.D. candidate in Computer Science at the [University of Kentucky](https://www.uky.edu)  
-- Graduate Research Assistant (Internal Medicine, Division of Biomedical Informatics)
+- Postdoctoral Scholar at [Stanford University](https://www.stanford.edu)
+- Ph.D. in Computer Science from the [University of Kentucky](https://www.uky.edu)
 
 - **Research Focus**
   - Advanced data mining and computer vision for medical and biological informatics  
@@ -43,6 +43,8 @@ Research Interests:
 News:
 ======
 
+- <span style="color:red">New!:</span> Started as a Postdoctoral Scholar at Stanford University.
+- <span style="color:red">New!:</span> Completed Ph.D. in Computer Science from the University of Kentucky.
 - <span style="color:red">New!:</span> [July 2026] Paper published at [Computational and Structural Biotechnology Journal](https://spj.science.org/doi/epdf/10.34133/csbj.0150).
 - <span style="color:red">New!:</span> [April 2026] Paper Published at [Neurocomputing](https://doi.org/10.1016/j.neucom.2026.133754).
 - <span style="color:red">New!:</span> [March 2026] Selected as a Student Awardee and attended the NAIRR 2026 Annual Meeting, hosted by the <span style="color:red">NSF</span>.
