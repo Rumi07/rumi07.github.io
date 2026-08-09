@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="home-hero" markdown="0">
   <p class="home-hero__eyebrow">Postdoctoral Scholar · Stanford University</p>
-  <p class="home-hero__sub">Ph.D. in Computer Science, University of Kentucky · Palo Alto, California</p>
+  <p class="home-hero__sub">Ph.D. in Computer Science, University of Kentucky</p>
 </div>
 
 <div class="research-statement" markdown="0">
@@ -32,7 +32,6 @@ redirect_from:
 <div class="home-links" markdown="0">
   <a class="home-link" href="/publications/">Publications</a>
   <a class="home-link" href="/cv/">CV</a>
-  <a class="home-link" href="mailto:rabeya@stanford.edu">Email</a>
 </div>
 
 Research Interests
