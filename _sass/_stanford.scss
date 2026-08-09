@@ -1,0 +1,288 @@
+/* ==========================================================================
+   Stanford academic adornments
+   ========================================================================== */
+
+html {
+  background:
+    radial-gradient(ellipse 80% 50% at 100% 0%, rgba($stanford-cardinal, 0.06), transparent 55%),
+    radial-gradient(ellipse 60% 40% at 0% 100%, rgba($stanford-palo-alto, 0.05), transparent 50%),
+    $background-color;
+}
+
+body {
+  letter-spacing: 0.01em;
+}
+
+/* Cardinal accent bar across the top */
+.masthead {
+  border-bottom: none;
+  border-top: 4px solid $stanford-cardinal;
+  background-color: #fff;
+  box-shadow: 0 1px 0 rgba($stanford-cool-grey, 0.12);
+
+  &__menu-item--lg a {
+    color: $stanford-cardinal !important;
+    font-family: $serif;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+
+    &:hover {
+      color: $stanford-cardinal-dark !important;
+    }
+  }
+}
+
+.greedy-nav a {
+  font-weight: 500;
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.greedy-nav .visible-links > li:not(.masthead__menu-item--lg) > a {
+  position: relative;
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0.75em;
+    right: 0.75em;
+    bottom: 0.35em;
+    height: 2px;
+    background: $stanford-cardinal;
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.25s ease;
+  }
+
+  &:hover::after {
+    transform: scaleX(1);
+  }
+}
+
+/* Author sidebar */
+.author__avatar img {
+  border: 3px solid rgba($stanford-cardinal, 0.35) !important;
+  box-shadow: 0 6px 18px rgba($stanford-black, 0.12);
+  transition: border-color 0.25s ease, box-shadow 0.25s ease;
+
+  &:hover {
+    border-color: $stanford-cardinal !important;
+    box-shadow: 0 8px 22px rgba($stanford-cardinal, 0.18);
+  }
+}
+
+.author__name {
+  font-family: $serif;
+  color: $stanford-black;
+  letter-spacing: 0.01em;
+}
+
+.author__bio {
+  color: $stanford-cool-grey;
+  font-style: italic;
+}
+
+.author__urls a {
+  transition: color 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    color: $stanford-cardinal !important;
+  }
+}
+
+/* Page titles & section rules */
+.page__title {
+  font-family: $serif;
+  color: $stanford-black;
+  letter-spacing: -0.01em;
+}
+
+.page__content {
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $serif;
+    color: $stanford-black;
+  }
+
+  h2 {
+    position: relative;
+    padding-bottom: 0.45em;
+    margin-top: 1.75em;
+    border-bottom: none;
+
+    &::after {
+      content: "";
+      display: block;
+      width: 3.25rem;
+      height: 3px;
+      margin-top: 0.55em;
+      background: linear-gradient(90deg, $stanford-cardinal, mix(#fff, $stanford-cardinal, 55%));
+      border-radius: 2px;
+    }
+  }
+
+  a {
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+  }
+
+  blockquote {
+    border-left-color: $stanford-cardinal;
+    background: rgba($stanford-fog, 0.65);
+    padding: 0.85em 1.1em;
+    border-radius: 0 6px 6px 0;
+  }
+}
+
+/* About page composition */
+.stanford-lead {
+  margin: 0 0 1.75em;
+  padding: 1.15em 1.25em;
+  background:
+    linear-gradient(135deg, rgba($stanford-cardinal, 0.06), rgba($stanford-fog, 0.9) 55%, rgba($stanford-palo-alto, 0.05));
+  border-left: 4px solid $stanford-cardinal;
+  border-radius: 0 8px 8px 0;
+
+  p {
+    margin: 0 0 0.45em;
+    font-size: 1.05em;
+    line-height: 1.55;
+    color: $stanford-black;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  .role {
+    font-family: $serif;
+    font-size: 1.2em;
+    font-weight: 600;
+    color: $stanford-cardinal;
+  }
+
+  .affiliation {
+    color: $stanford-cool-grey;
+  }
+}
+
+.stanford-section {
+  margin-bottom: 1.75em;
+
+  h3 {
+    margin: 0 0 0.55em;
+    font-size: 1.05em;
+    font-family: $serif;
+    color: $stanford-cardinal;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+  }
+
+  ul {
+    margin-left: 1.1em;
+  }
+
+  li {
+    margin-bottom: 0.35em;
+  }
+}
+
+.interest-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.65rem;
+  list-style: none;
+  margin: 0.5em 0 0;
+  padding: 0;
+
+  li {
+    margin: 0;
+    padding: 0.35em 0.8em;
+    font-size: 0.9em;
+    font-weight: 500;
+    color: $stanford-black;
+    background: #fff;
+    border: 1px solid rgba($stanford-cardinal, 0.22);
+    border-radius: 2px;
+    transition: border-color 0.2s ease, color 0.2s ease, background 0.2s ease;
+
+    &:hover {
+      color: $stanford-cardinal;
+      border-color: $stanford-cardinal;
+      background: rgba($stanford-cardinal, 0.04);
+    }
+  }
+}
+
+.news-list {
+  list-style: none;
+  margin: 0.75em 0 0;
+  padding: 0;
+
+  li {
+    position: relative;
+    margin: 0;
+    padding: 0.85em 0 0.85em 1rem;
+    border-bottom: 1px solid rgba($stanford-cool-grey, 0.15);
+    line-height: 1.55;
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 1.15em;
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: mix(#fff, $stanford-cool-grey, 35%);
+    }
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    &.is-new::before {
+      background: $stanford-cardinal;
+      box-shadow: 0 0 0 3px rgba($stanford-cardinal, 0.15);
+    }
+  }
+}
+
+.badge-new {
+  display: inline-block;
+  margin-right: 0.4em;
+  padding: 0.12em 0.45em;
+  font-size: 0.72em;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #fff;
+  background: $stanford-cardinal;
+  border-radius: 2px;
+  vertical-align: 0.1em;
+}
+
+.page__footer {
+  border-top: 3px solid $stanford-cardinal;
+  background: linear-gradient(180deg, $stanford-fog, mix(#fff, $stanford-fog, 40%));
+}
+
+.btn {
+  border-radius: 2px;
+  letter-spacing: 0.02em;
+}
+
+/* Soft page entrance */
+.page,
+.archive {
+  -webkit-animation: stanford-fade 0.45s ease both;
+          animation: stanford-fade 0.45s ease both;
+}
+
+@-webkit-keyframes stanford-fade {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes stanford-fade {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}

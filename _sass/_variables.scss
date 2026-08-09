@@ -12,9 +12,9 @@ $doc-font-size              : 16;
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
-/* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+/* system typefaces — Stanford-inspired Source families */
+$serif                      : "Source Serif 4", "Source Serif Pro", Georgia, "Times New Roman", serif;
+$sans-serif                 : "Source Sans 3", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -29,7 +29,7 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 $global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
+$header-font-family         : $serif;
 $caption-font-family        : $serif;
 
 /* type scale */
@@ -44,27 +44,35 @@ $type-size-8                : 0.625em;  // ~10px
 
 
 /*
-   Colors
+   Colors — Stanford Identity
+   Cardinal #8C1515 · Cool Grey #4D4F53 · Black #2E2D29 · Fog #F4F4F4 · Palo Alto #175E54
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$stanford-cardinal          : #8C1515;
+$stanford-cardinal-dark     : #820000;
+$stanford-cool-grey         : #4D4F53;
+$stanford-black             : #2E2D29;
+$stanford-fog               : #F4F4F4;
+$stanford-palo-alto         : #175E54;
+
+$gray                       : $stanford-cool-grey;
+$dark-gray                  : $stanford-black;
+$darker-gray                : mix(#000, $stanford-cool-grey, 60%);
+$light-gray                 : mix(#fff, $stanford-cool-grey, 50%);
+$lighter-gray               : mix(#fff, $stanford-cool-grey, 88%);
 
 $body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
+$background-color           : #faf9f7;
+$code-background-color      : $stanford-fog;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$text-color                 : $stanford-black;
+$border-color               : mix(#fff, $stanford-cool-grey, 78%);
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$primary-color              : $stanford-cardinal;
+$success-color              : $stanford-palo-alto;
+$warning-color              : #E98300;
+$danger-color               : $stanford-cardinal-dark;
+$info-color                 : $stanford-cardinal;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -90,11 +98,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$link-color                 : $stanford-cardinal;
+$link-color-hover           : $stanford-cardinal-dark;
+$link-color-visited         : mix(#fff, $stanford-cardinal, 15%);
+$masthead-link-color        : $stanford-cool-grey;
+$masthead-link-color-hover  : $stanford-cardinal;
 
 
 /*
