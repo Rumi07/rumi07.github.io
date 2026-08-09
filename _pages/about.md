@@ -16,39 +16,9 @@ redirect_from:
 <div class="research-statement" markdown="0">
   <h2 class="research-statement__label">Research</h2>
   <p class="research-statement__lead">
-    I am currently working on <em>multimodal and multitask foundation models</em> for cancer detection and surgical video analysis.
-  </p>
-  <p>
-    My research focuses on medical image and video segmentation, MRI and ultrasound analysis, foundation models, reinforcement learning, and AI agents.
-  </p>
-  <p>
-    My broader research spans generative modeling, causal machine learning, multimodal learning, large language models, state-space models, spatial and single-cell omics, structured data analysis, and trustworthy artificial intelligence.
-  </p>
-  <p class="research-statement__goal">
-    My goal is to develop clinically meaningful, interpretable, fair, and reliable AI methods for real-world biomedical and healthcare applications.
+    I am currently working on <em>multimodal and multitask foundation models</em> for cancer detection and surgical video analysis. My research interests span medical image and video segmentation, MRI and ultrasound analysis, foundation models, generative and causal machine learning, multimodal learning, large language models, reinforcement learning, AI agents, spatial and single-cell omics, and trustworthy AI. My goal is to develop clinically meaningful, interpretable, fair, and reliable AI methods for real-world biomedical and healthcare applications.
   </p>
 </div>
-
-<div class="home-links" markdown="0">
-  <a class="home-link" href="/publications/">Publications</a>
-  <a class="home-link" href="/cv/">CV</a>
-</div>
-
-Research Interests
-======
-
-<ul class="interest-list">
-  <li>Foundation Models</li>
-  <li>Multimodal Learning</li>
-  <li>Medical Imaging</li>
-  <li>Surgical Video Analysis</li>
-  <li>Generative AI</li>
-  <li>Causal Machine Learning</li>
-  <li>Large Language Models</li>
-  <li>Spatial &amp; Single-cell Omics</li>
-  <li>Reinforcement Learning</li>
-  <li>Trustworthy AI</li>
-</ul>
 
 News
 ======
