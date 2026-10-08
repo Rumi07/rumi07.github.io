@@ -24,7 +24,7 @@ News
 ======
 
 <ul class="news-list">
-  <li class="is-new"><span class="badge-new">New</span> Selected as s Mentor at <a href = "https://www.wiml.org/">Women in Machine Learning (WiML)</li>
+  <li class="is-new"><span class="badge-new">New</span> Selected as s Mentor at <a href = "https://www.wiml.org/">Women in Machine Learning (WiML)</a>.</li>
   <li class="is-new"><span class="badge-new">New</span> Started as a Postdoctoral Scholar at Stanford University.</li>
   <li class="is-new"><span class="badge-new">New</span> Completed Ph.D. in Computer Science from the University of Kentucky.</li>
   <li class="is-new"><span class="badge-new">New</span> [July 2026] Paper published at <a href="https://spj.science.org/doi/epdf/10.34133/csbj.0150">Computational and Structural Biotechnology Journal</a>.</li>
